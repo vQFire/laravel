@@ -1,0 +1,8 @@
+@use "~@material/floating-label/mdc-floating-label";
+@use "~@material/line-ripple/mdc-line-ripple";
+@use "~@material/notched-outline/mdc-notched-outline";
+@use "~@material/textfield";
+@use "~@material/textfield/helper-text";
+
+@include textfield.core-styles;
+@include helper-text.helper-text-core-styles;
